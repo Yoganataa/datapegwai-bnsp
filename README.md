@@ -14,7 +14,7 @@
 *Unduh atau kloning repositori di sistem Anda.*
 
 ```
-git clone [repo]
+git clone https://github.com/Yoganataa/datapegwai-bnsp.git
 ```
 
 *Buka folder payroll-employe-uas dan buka terminal, lalu ikuti langkah-langkah di bawah ini.*
