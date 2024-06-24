@@ -63,8 +63,8 @@ php artisan db:seed --class=CreateSuperAdminUserSeeder
 
 * Login SuperAdmin *
 ```
-email = superadmin@mailinator.com 
-password = 12345678
+email = admin@test.com 
+password = 12341234
 ```
 
 **Catatan** :
